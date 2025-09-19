@@ -1,0 +1,16 @@
+body {
+background-color: #2074a9;
+color: white;
+font-family: "Bai Jamjuree", sans-serif;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 700px;
+margin: 0;
+}
+
+button {
+background-color: #002df7;
+color: white;
+font-family: "Bai Jamjuree", sans-serif;
+}
